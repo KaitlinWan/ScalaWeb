@@ -14,6 +14,23 @@ Scala’s home is at Lightbend, Inc. (formerly known as Typesafe). This company 
 
 #### Although Scala runs on JVM and is interoperable with Java, it is not an extension of Java itself!
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Features!
+
+
+#### Immutability
+- val for immutable (var for mutable)
+- List and Map are immutable by default
+
+
+#### Composing Functions
+- Writing functions within functions
+- Higher order functions
+
+
+#### Pattern Matching
+- match keyword
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
