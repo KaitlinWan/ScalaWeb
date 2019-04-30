@@ -1,6 +1,8 @@
 ## Welcome to Scala with Team Kaile
 
+Kyle Tau and Kaitlin Wan
 
+[Slides from Presentation](https://docs.google.com/presentation/d/1uUWBmBw5yOH-4c7fGMieZMNgpiwDDzjrPgj4aYi7cjk/edit?usp=sharing)
 
 ### Markdown
 
