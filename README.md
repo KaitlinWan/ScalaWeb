@@ -1,6 +1,6 @@
 # Welcome to Scala with Team Kaile
 
-#### Kyle Tau and Kaitlin Wan
+#### Kyle Tau and Kaitlin Wan :+1:
 
 [Slides from Presentation](https://docs.google.com/presentation/d/1uUWBmBw5yOH-4c7fGMieZMNgpiwDDzjrPgj4aYi7cjk/edit?usp=sharing)
 
@@ -46,15 +46,45 @@ Like Java, Scala is object-oriented, meaning every value is an object. Unlike Ja
 
 #### Java
 
-- Object-Oriented (but primitives are not objects )
+- Object-Oriented (but primitives are not objects ) :heart_eyes:
 - Functional (only lambda programming )
 - Backwards Compatible
 
 #### Scala
 
-- Object-Oriented (everything is an object!)
+- Object-Oriented (everything is an object!) 
 - Functional (pattern matching, algebraic data types via case classes, type classes via implicits, tail-call optimisation, and immutability by default)
-- Not Backwards Compatible( is binary compatible )
+- Not Backwards Compatible( is binary compatible ) :fearful:
+
+
+## Companies
+
+**Twitter:** backend switched from Ruby
+
+**Foursquare:** used in the servers
+
+**Morgan Stanley:** finance and asset-related projects
+
+**SoundCloud:** main language for backend 
+
+**Duolingo:** backend for creating lessons
+
+**Huffington Post:** content delivery system
+
+**New York Times:** internal content management system
+
+
+
+
+## Sources
+
+http://allaboutscala.com/tutorials/scala-introduction/scala-functional-programming-features/
+
+https://dzone.com/articles/operator-overloading-scala 
+
+https://www.javatpoint.com/scala-tutorial 
+
+
 
 
 
