@@ -14,7 +14,7 @@ Scala’s home is at Lightbend, Inc. (formerly known as Typesafe). This company 
 
 #### Although Scala runs on JVM and is interoperable with Java, it is not an extension of Java itself!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 ## Features!
 
@@ -30,6 +30,10 @@ Scala’s home is at Lightbend, Inc. (formerly known as Typesafe). This company 
 
 #### Pattern Matching
 - match keyword
+
+## Code Snippets!
+
+![Image of Var](https://octodex.github.com/images/yaktocat.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
