@@ -31,9 +31,36 @@ Scala’s home is at Lightbend, Inc. (formerly known as Typesafe). This company 
 #### Pattern Matching
 - match keyword
 
-## Code Snippets!
+#### Overloading Operators
+- Operators can be redefined (+, -, !, etc.)
 
-![Image of Var](https://octodex.github.com/images/yaktocat.png)
+#### Traits
+- Interfaces similar to abstract classes, but can hold both abstract and non-abstract methods
+
+
+## Java vs. Scala
+
+Like Java, Scala is object-oriented, meaning every value is an object. Unlike Java, Scala is also a true functional language, meaning every function is a value (and therefore every function is an object). Java 8 introduced lambda programming to make Java a functional language, but compared to Scala, the functional language capabilities of Scala reach further. 
+
+## Paradigms
+
+#### Java
+
+- Object-Oriented (but primitives are not objects )
+- Functional (only lambda programming )
+- Backwards Compatible
+
+#### Scala
+
+- Object-Oriented (everything is an object!)
+- Functional (pattern matching, algebraic data types via case classes, type classes via implicits, tail-call optimisation, and immutability by default)
+- Not Backwards Compatible( is binary compatible )
+
+
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
