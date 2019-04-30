@@ -1,10 +1,10 @@
-## Welcome to Scala with Team Kaile
+# Welcome to Scala with Team Kaile
 
-Kyle Tau and Kaitlin Wan
+#### Kyle Tau and Kaitlin Wan
 
 [Slides from Presentation](https://docs.google.com/presentation/d/1uUWBmBw5yOH-4c7fGMieZMNgpiwDDzjrPgj4aYi7cjk/edit?usp=sharing)
 
-### What is Scala?
+## What is Scala?
 
 Created by Martin Odersky and first released in 2003, Scala (short for Scalable Language) is a multi-paradigm programming language designed to cover the clunkiness and disadvantages of Java. 
 
@@ -16,8 +16,7 @@ Scala’s home is at Lightbend, Inc. (formerly known as Typesafe). This company 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-### Features!
-
+## Features!
 
 #### Immutability
 - val for immutable (var for mutable)
@@ -54,7 +53,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KaitlinWan/ScalaWeb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
