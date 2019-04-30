@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Scala with Kyle Tau and Kaitlin Wan
 
 You can use the [editor on GitHub](https://github.com/KaitlinWan/ScalaWeb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
