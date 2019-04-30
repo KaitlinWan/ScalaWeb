@@ -1,6 +1,6 @@
 # Welcome to Scala with Team Kaile
 
-#### Kyle Tau and Kaitlin Wan :+1:
+#### Kyle Tau and Kaitlin Wan
 
 [Slides from Presentation](https://docs.google.com/presentation/d/1uUWBmBw5yOH-4c7fGMieZMNgpiwDDzjrPgj4aYi7cjk/edit?usp=sharing)
 
@@ -46,7 +46,7 @@ Like Java, Scala is object-oriented, meaning every value is an object. Unlike Ja
 
 #### Java
 
-- Object-Oriented (but primitives are not objects ) :heart_eyes:
+- Object-Oriented (but primitives are not objects ) 
 - Functional (only lambda programming )
 - Backwards Compatible
 
@@ -54,7 +54,7 @@ Like Java, Scala is object-oriented, meaning every value is an object. Unlike Ja
 
 - Object-Oriented (everything is an object!) 
 - Functional (pattern matching, algebraic data types via case classes, type classes via implicits, tail-call optimisation, and immutability by default)
-- Not Backwards Compatible( is binary compatible ) :fearful:
+- Not Backwards Compatible( is binary compatible )
 
 
 ## Companies
