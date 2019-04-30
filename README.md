@@ -4,7 +4,16 @@ Kyle Tau and Kaitlin Wan
 
 [Slides from Presentation](https://docs.google.com/presentation/d/1uUWBmBw5yOH-4c7fGMieZMNgpiwDDzjrPgj4aYi7cjk/edit?usp=sharing)
 
-### Markdown
+### What is Scala?
+
+Created by Martin Odersky and first released in 2003, Scala (short for Scalable Language) is a multi-paradigm programming language designed to cover the clunkiness and disadvantages of Java. 
+
+
+Scala’s home is at Lightbend, Inc. (formerly known as Typesafe). This company provides an open-source platform for JVM based apps and even commercial support and training for Scala.
+
+
+#### Although Scala runs on JVM and is interoperable with Java, it is not an extension of Java itself!
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
